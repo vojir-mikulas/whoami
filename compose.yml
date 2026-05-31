@@ -1,0 +1,4 @@
+services:
+  web:
+    image: traefik/whoami
+    restart: always
